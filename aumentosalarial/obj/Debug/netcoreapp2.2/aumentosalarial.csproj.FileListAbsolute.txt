@@ -1,0 +1,11 @@
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\obj\Debug\netcoreapp2.2\aumentosalarial.csprojAssemblyReference.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\obj\Debug\netcoreapp2.2\aumentosalarial.csproj.CoreCompileInputs.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\obj\Debug\netcoreapp2.2\aumentosalarial.AssemblyInfoInputs.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\obj\Debug\netcoreapp2.2\aumentosalarial.AssemblyInfo.cs
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\bin\Debug\netcoreapp2.2\aumentosalarial.deps.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\bin\Debug\netcoreapp2.2\aumentosalarial.runtimeconfig.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\bin\Debug\netcoreapp2.2\aumentosalarial.runtimeconfig.dev.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\bin\Debug\netcoreapp2.2\aumentosalarial.dll
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\bin\Debug\netcoreapp2.2\aumentosalarial.pdb
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\obj\Debug\netcoreapp2.2\aumentosalarial.dll
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\aumentosalarial\obj\Debug\netcoreapp2.2\aumentosalarial.pdb
