@@ -1,0 +1,11 @@
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\obj\Debug\netcoreapp2.2\100primimpares.csprojAssemblyReference.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\obj\Debug\netcoreapp2.2\100primimpares.csproj.CoreCompileInputs.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\obj\Debug\netcoreapp2.2\100primimpares.AssemblyInfoInputs.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\obj\Debug\netcoreapp2.2\100primimpares.AssemblyInfo.cs
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\bin\Debug\netcoreapp2.2\100primimpares.deps.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\bin\Debug\netcoreapp2.2\100primimpares.runtimeconfig.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\bin\Debug\netcoreapp2.2\100primimpares.runtimeconfig.dev.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\bin\Debug\netcoreapp2.2\100primimpares.dll
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\bin\Debug\netcoreapp2.2\100primimpares.pdb
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\obj\Debug\netcoreapp2.2\100primimpares.dll
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\100primimpares\obj\Debug\netcoreapp2.2\100primimpares.pdb

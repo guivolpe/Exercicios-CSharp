@@ -6,6 +6,9 @@ namespace aumentosalarial
     {
         static void Main(string[] args)
         {
+
+
+
             double salario,aumento;
             
             Console.Write("Digite o salário:");
@@ -15,11 +18,16 @@ namespace aumentosalarial
             if (salario <500)
             {
                 Console.Write ($"Seu novo salário é: R$ {salario * aumento}");
-            }         
+            }   
+                  
             else
             {
                 Console.Write ("Infelizmente você não teve aumento");
             }
+
+
+
+
 
 
         }

@@ -1,0 +1,11 @@
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\obj\Debug\netcoreapp2.2\par.csprojAssemblyReference.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\obj\Debug\netcoreapp2.2\par.csproj.CoreCompileInputs.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\obj\Debug\netcoreapp2.2\par.AssemblyInfoInputs.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\obj\Debug\netcoreapp2.2\par.AssemblyInfo.cs
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\bin\Debug\netcoreapp2.2\par.deps.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\bin\Debug\netcoreapp2.2\par.runtimeconfig.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\bin\Debug\netcoreapp2.2\par.runtimeconfig.dev.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\bin\Debug\netcoreapp2.2\par.dll
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\bin\Debug\netcoreapp2.2\par.pdb
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\obj\Debug\netcoreapp2.2\par.dll
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\par\obj\Debug\netcoreapp2.2\par.pdb
