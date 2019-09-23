@@ -1,0 +1,11 @@
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\bin\Debug\netcoreapp2.2\qualaidade.deps.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\bin\Debug\netcoreapp2.2\qualaidade.runtimeconfig.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\bin\Debug\netcoreapp2.2\qualaidade.runtimeconfig.dev.json
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\bin\Debug\netcoreapp2.2\qualaidade.dll
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\bin\Debug\netcoreapp2.2\qualaidade.pdb
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\obj\Debug\netcoreapp2.2\qualaidade.csprojAssemblyReference.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\obj\Debug\netcoreapp2.2\qualaidade.csproj.CoreCompileInputs.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\obj\Debug\netcoreapp2.2\qualaidade.AssemblyInfoInputs.cache
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\obj\Debug\netcoreapp2.2\qualaidade.AssemblyInfo.cs
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\obj\Debug\netcoreapp2.2\qualaidade.dll
+C:\Users\26351273870\Documents\Guilherme - Senai\Exercícios\qualaidade\obj\Debug\netcoreapp2.2\qualaidade.pdb
