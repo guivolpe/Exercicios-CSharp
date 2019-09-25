@@ -1,0 +1,11 @@
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\obj\Debug\netcoreapp2.2\triandulo.csprojAssemblyReference.cache
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\obj\Debug\netcoreapp2.2\triandulo.csproj.CoreCompileInputs.cache
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\obj\Debug\netcoreapp2.2\triandulo.AssemblyInfoInputs.cache
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\obj\Debug\netcoreapp2.2\triandulo.AssemblyInfo.cs
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\bin\Debug\netcoreapp2.2\triandulo.deps.json
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\bin\Debug\netcoreapp2.2\triandulo.runtimeconfig.json
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\bin\Debug\netcoreapp2.2\triandulo.runtimeconfig.dev.json
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\bin\Debug\netcoreapp2.2\triandulo.dll
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\bin\Debug\netcoreapp2.2\triandulo.pdb
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\obj\Debug\netcoreapp2.2\triandulo.dll
+C:\Users\26351273870\documents\guilherme\Exercícios\triandulo\obj\Debug\netcoreapp2.2\triandulo.pdb
