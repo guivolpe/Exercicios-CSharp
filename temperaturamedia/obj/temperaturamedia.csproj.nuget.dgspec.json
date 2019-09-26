@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\vetores\\vetores.csproj": {}
+    "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\temperaturamedia\\temperaturamedia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\vetores\\vetores.csproj": {
+    "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\temperaturamedia\\temperaturamedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\vetores\\vetores.csproj",
-        "projectName": "vetores",
-        "projectPath": "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\vetores\\vetores.csproj",
+        "projectUniqueName": "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\temperaturamedia\\temperaturamedia.csproj",
+        "projectName": "temperaturamedia",
+        "projectPath": "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\temperaturamedia\\temperaturamedia.csproj",
         "packagesPath": "C:\\Users\\26351273870\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\vetores\\obj\\",
+        "outputPath": "C:\\Users\\26351273870\\documents\\guilherme\\exercícios\\temperaturamedia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
